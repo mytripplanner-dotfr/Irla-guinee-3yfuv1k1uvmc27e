@@ -1,0 +1,156 @@
+{
+  "pays": "Guinée",
+  "drapeau": "🇬🇳",
+  "symbole": "🌴",
+  "titre": "Évasion Tropicale et Culturelle en Guinée",
+  "budget_total": "Environ 1950 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "18h (depuis Sain, pakistan)",
+  "escale": "1 ou 2",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Conakry",
+      "legende": "Après un long voyage depuis Sain, Pakistan, découvrez la vibrante capitale guinéenne. Installez-vous en douceur et imprégnez-vous de l'ambiance locale avec une première balade relaxante le long de la côte.",
+      "lieu": "Conakry",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'Aéroport International de Conakry (CKY). Préparez-vous à l'effervescence locale dès votre descente d'avion.",
+        "<strong>🛏️</strong>: Installation à l'hôtel et repos bien mérité. Prenez le temps de vous rafraîchir et de vous détendre après le vol.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante le long de la Corniche. Profitez de la brise marine et observez le quotidien des habitants au bord de l'océan."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport International de Conakry, Conakry",
+          "categorie": "Aéroport",
+          "coords": { "lat": 9.5767, "lng": -13.6114 }
+        },
+        {
+          "nom_recherche": "Corniche de Conakry, Conakry",
+          "categorie": "Promenade",
+          "coords": { "lat": 9.5300, "lng": -13.7000 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trafic à Conakry peut être dense. Prévoyez du temps pour les déplacements locaux et soyez patient."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏝️",
+      "titre": "Immersion Culturelle et Sérénité Insulaire",
+      "legende": "Plongez dans l'histoire et la culture guinéenne avant de vous évader vers la tranquillité des îles de Loos, offrant une pause rafraîchissante loin de l'agitation urbaine.",
+      "lieu": "Conakry et Île de Kassa",
+      "activites": [
+        "<strong>🏛️</strong>: Visite du Musée National de Guinée. Découvrez des artefacts historiques et ethnographiques qui racontent l'histoire riche du pays.",
+        "<strong>🚤</strong>: Excursion relaxante vers l'Île de Kassa (Îles de Loos). Embarquez pour une traversée paisible en pirogue vers cet archipel idyllique.",
+        "<strong>🏖️</strong>: Détente et baignade sur les plages de Kassa. Profitez du sable fin et des eaux calmes pour un moment de pure relaxation."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée National de Guinée, Conakry",
+          "categorie": "Musée",
+          "coords": { "lat": 9.5290, "lng": -13.6840 }
+        },
+        {
+          "nom_recherche": "Île de Kassa, Guinée",
+          "categorie": "Île",
+          "coords": { "lat": 9.4700, "lng": -13.7800 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Astuce",
+          "texte": "Négociez toujours le prix de la pirogue pour l'île de Kassa avant de partir pour éviter les surprises."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛍️",
+      "titre": "Artisanat Local et Départ",
+      "legende": "Avant de quitter la Guinée, explorez les marchés colorés pour dénicher des souvenirs authentiques et profitez d'un dernier moment de quiétude, imprégné des saveurs et des couleurs locales.",
+      "lieu": "Conakry",
+      "activites": [
+        "<strong>🛍️</strong>: Découverte du Marché de l'Artisanat de Conakry. Flânez parmi les étals proposant des sculptures, des tissus et des bijoux locaux.",
+        "<strong>☕</strong>: Moment de détente dans un café local. Savourez un thé ou un café guinéen en observant l'animation de la ville.",
+        "<strong>✈️</strong>: Transfert à l'aéroport et départ. Préparez-vous pour votre vol retour, la tête pleine de souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Marché de l'Artisanat, Conakry",
+          "categorie": "Marché",
+          "coords": { "lat": 9.5300, "lng": -13.6900 }
+        },
+        {
+          "nom_recherche": "Aéroport International de Conakry, Conakry",
+          "categorie": "Aéroport",
+          "coords": { "lat": 9.5767, "lng": -13.6114 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Shopping",
+          "texte": "Les marchés sont l'endroit idéal pour trouver des tissus colorés, des sculptures en bois et d'autres souvenirs authentiques."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 1360 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 70 €/pers (taxis locaux, pirogue)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 120 €/pers (40 €/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 300 €/pers (100 €/nuit pour 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 70 €/pers (musée, excursion île)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Novembre à Avril (saison sèche)", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Entre 25 et 35°C toute l'année. Prévoir des vêtements légers en coton, un chapeau et de la crème solaire.", "symbole": "☀️" },
+    { "titre": "La monnaie est le Franc Guinéen (GNF). Prévoir des petites coupures. Les cartes de crédit sont rarement acceptées en dehors des grands hôtels.", "symbole": "💳" },
+    { "titre": "Un visa est obligatoire pour la Guinée. Il doit être obtenu avant le départ auprès de l'ambassade ou du consulat.", "symbole": "🛂" },
+    { "titre": "Le vaccin contre la fièvre jaune est obligatoire. Un traitement antipaludique est fortement recommandé. Consultez votre médecin avant le départ.", "symbole": "🏥" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "La Guinée est surnommée le \"Château d'eau de l'Afrique de l'Ouest\" en raison de ses nombreux fleuves qui y prennent leur source, comme le Niger, le Sénégal et la Gambie." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "Conakry est construite sur une presqu'île. À l'origine, c'était une petite île appelée Tombo, qui a été reliée au continent par une chaussée, créant ainsi la capitale que nous connaissons aujourd'hui." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Poulet Yassa", 
+      "description": "Un plat emblématique de l'Afrique de l'Ouest, composé de poulet mariné dans du citron et des oignons, puis mijoté jusqu'à tendreté, souvent servi avec du riz." 
+    },
+    { 
+      "symbole": "🍚", 
+      "titre": "Riz Gras", 
+      "description": "Un plat savoureux où le riz est cuit dans une riche sauce tomate avec de la viande (souvent du bœuf ou du poisson) et des légumes, offrant une explosion de saveurs." 
+    },
+    { 
+      "symbole": "🍠", 
+      "titre": "Foutou", 
+      "description": "Une pâte épaisse et malléable faite à partir de manioc, de plantain ou d'igname, servie comme accompagnement avec diverses sauces épicées." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/KHI-CKY/2026-06-02/2026-06-05", "symbole": "🛬" }
+  ]
+}
